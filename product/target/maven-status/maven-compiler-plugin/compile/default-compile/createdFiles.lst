@@ -1,0 +1,13 @@
+com/example/product/connections/Tenant.class
+com/example/product/connections/DataBaseConfiguration.class
+com/example/product/connections/TenantIdentifierResolver.class
+com/example/product/connections/FlywayMigrationInitializer.class
+com/example/product/connections/MultitenantConnectionProvider.class
+com/example/product/connections/TenantFinder.class
+com/example/product/ProductApplication.class
+com/example/product/connections/RepositoryConfiguration.class
+com/example/product/connections/TenantIdentifierConfig.class
+com/example/product/connections/TenantContext.class
+com/example/product/connections/TenantFinder$TypeConverter.class
+com/example/product/connections/RoutingDataSource.class
+com/example/product/connections/RedisClientConnection.class
